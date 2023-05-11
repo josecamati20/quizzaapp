@@ -1,0 +1,1 @@
+"expo-status-bar": "~1.4.4",
